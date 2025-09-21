@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,cdn.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steampipe.steamcontent.com
+DOMAIN-SUFFIX,content.steampowered.com
 
 # Steam 下载常用 IP 段直连
 IP-CIDR,103.10.124.0/23,no-resolve
