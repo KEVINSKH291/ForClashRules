@@ -3,50 +3,7 @@
 # 局域网网段
 IP-CIDR,192.168.0.0/16,no-resolve
 
-# WeChat / 微信相关直连规则
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,wx.qq.com
-DOMAIN-SUFFIX,wxapp.tc.qq.com
-DOMAIN-SUFFIX,wxs.qq.com
-DOMAIN-SUFFIX,wx.qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,mp.weixin.qq.com
-DOMAIN-SUFFIX,szlong.weixin.qq.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatpay.com
 
-# Tencent / 微信相关国内 IP 直连
-IP-CIDR,43.128.0.0/10
-IP-CIDR,49.51.0.0/16
-IP-CIDR,58.250.0.0/16
-IP-CIDR,59.36.0.0/16
-IP-CIDR,101.32.0.0/14
-IP-CIDR,103.7.30.0/23
-IP-CIDR,119.28.0.0/16
-IP-CIDR,129.226.0.0/16
-IP-CIDR,157.255.0.0/16
-IP-CIDR,163.177.0.0/16
-IP-CIDR,170.106.0.0/16
-IP-CIDR,175.27.0.0/16
-IP-CIDR,180.163.0.0/16
-IP-CIDR,182.254.0.0/16
-
-# Tencent / 微信相关国内 IP 直连（带 no-resolve）
-IP-CIDR,43.128.0.0/10,no-resolve
-IP-CIDR,49.51.0.0/16,no-resolve
-IP-CIDR,58.250.0.0/16,no-resolve
-IP-CIDR,59.36.0.0/16,no-resolve
-IP-CIDR,101.32.0.0/14,no-resolve
-IP-CIDR,103.7.30.0/23,no-resolve
-IP-CIDR,119.28.0.0/16,no-resolve
-IP-CIDR,129.226.0.0/16,no-resolve
-IP-CIDR,157.255.0.0/16,no-resolve
-IP-CIDR,163.177.0.0/16,no-resolve
-IP-CIDR,170.106.0.0/16,no-resolve
-IP-CIDR,175.27.0.0/16,no-resolve
-IP-CIDR,180.163.0.0/16,no-resolve
-IP-CIDR,182.254.0.0/16,no-resolve
 
 # MyList
 # 域名后缀匹配
