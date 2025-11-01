@@ -2,3 +2,23 @@
 
 # 局域网网段
 IP-CIDR,192.168.0.0/16,no-resolve
+
+
+# Steam 下载直连
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,cdn.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steampipe.steamcontent.com
+DOMAIN-SUFFIX,content.steampowered.com
+
+# Steam 下载常用 IP 段直连
+IP-CIDR,103.10.124.0/23,no-resolve
+IP-CIDR,103.10.126.0/23,no-resolve
+IP-CIDR,146.66.152.0/21,no-resolve
+IP-CIDR,162.254.192.0/18,no-resolve
+IP-CIDR,185.25.182.0/23,no-resolve
+IP-CIDR,190.217.32.0/22,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,205.196.6.0/23,no-resolve
+IP-CIDR,208.64.200.0/22,no-resolve
+IP-CIDR,45.121.184.0/22,no-resolve
