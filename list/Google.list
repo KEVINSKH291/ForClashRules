@@ -1,0 +1,19 @@
+# Google Play Store
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+# 常见 Google CDN IP（可选）
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,172.217.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,209.85.128.0/17,no-resolve
+IP-CIDR,216.58.192.0/19,no-resolve
